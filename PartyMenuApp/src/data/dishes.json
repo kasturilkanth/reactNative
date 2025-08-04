@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Paneer Tikka",
+    "description": "Spicy grilled cottage cheese",
+    "type": "VEG",
+    "mealType": "STARTER",
+    "ingredients": ["Paneer", "Yogurt", "Spices"]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Wings",
+    "description": "Crispy spicy chicken wings",
+    "type": "NON-VEG",
+    "mealType": "STARTER",
+    "ingredients": ["Chicken", "Hot Sauce", "Butter"]
+  }
+]
